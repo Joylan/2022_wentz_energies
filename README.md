@@ -1,6 +1,6 @@
 # Source code of the Paper Solar Irradiance Forecasting to Short-Term PV Power: Accuracy Comparison of ANN and LSTM Models
 
-## This repository contains the source codes (prediction models and figures plots) for the PDF paper PDF available at [Wentz et al. 2022].
+## This repository contains the source codes (prediction models and figures plots) for the PDF paper PDF available at [Wentz et al. 2022]. The used dataset is available in [[Pedro et al, 2019]](https://https://zenodo.org/record/2826939).
 
 ## Content:
 1. **2022_wentz_energies_models.ipynb**: main source code with predictions of the ANN and LSTM models.
