@@ -10,4 +10,6 @@ Content:
 ## Please, if you use this source code or part of it, cite:
 - Wentz, V.H.; Maciel, J.N.; Gimenez Ledesma, J.J.; Ando Junior, O.H. Solar Irradiance Forecasting to Short-Term PV Power: Accuracy Comparison of ANN and LSTM Models. Energies 2022, 15, 2457.
 
+### We encourage the spirit of researchers to contribute to more reliable and reproducible studies.
+
 Victor Hugo Wentz, Joylan Nunes Maciel
