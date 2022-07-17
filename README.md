@@ -6,9 +6,7 @@ Content:
 1. **2022_wentz_energies_models.ipynb**: main source code with ANN and LSTM prediction models.
 2. **2022_wentz_energies_plots.ipynb**: script with plotted papers's figs.
 
-
-## Please, if you use this source code or part of it, cite:
-- Wentz, V.H.; Maciel, J.N.; Gimenez Ledesma, J.J.; Ando Junior, O.H. Solar Irradiance Forecasting to Short-Term PV Power: Accuracy Comparison of ANN and LSTM Models. Energies 2022, 15, 2457.
+## Please, if you use this source code or part of it, cite the paper: https://doi.org/10.3390/en15072457
 
 ### We encourage the spirit of researchers to contribute to more reliable and reproducible studies.
 
